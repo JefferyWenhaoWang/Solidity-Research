@@ -8,3 +8,6 @@
 
 - Solidity Practice
   https://www.tutorialspoint.com/solidity/solidity_overview.htm
+
+- Mastering Ethereum: 2nd Edition
+  https://masteringethereum.xyz/
