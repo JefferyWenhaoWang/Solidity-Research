@@ -26,7 +26,7 @@ This repository collects notes and learning resources for getting started with S
 
 - [BITU SBIT.pdf](./BITU%20SBIT.pdf)
 
-  [BITU SBIT.](./BITU%20SBIT.pdf)
+
 
 - [Solidity Programming Essentials](./YOUR_FULL_FILE_NAME_HERE)  
   Additional reading material for Solidity fundamentals.
