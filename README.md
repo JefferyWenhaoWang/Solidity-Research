@@ -24,8 +24,8 @@ This repository collects notes and learning resources for getting started with S
 - [NOTES.pdf](./NOTES.pdf)  
   Personal notes and summaries related to Solidity and blockchain research.
 
-- [README.md](./README.md)  
-  Overview of the project and collected resources.
+- [BITU SBIT.pdf](./BITU SBIT.pdf)  
+  BITU SBIT.
 
 - [Solidity Programming Essentials](./YOUR_FULL_FILE_NAME_HERE)  
   Additional reading material for Solidity fundamentals.
